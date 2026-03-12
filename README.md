@@ -44,7 +44,7 @@ For the best development experience, we recommend using the following tools:
 * **Neoscript F# Edition.exe**: The compiled interpreter (Written in F#).
 * **Neoscript F# Edition.dll**: The logic library required for execution.
 * **Neoscript F# Edition.runtimeconfig.json**: Configuration file required for the runtime.
-* **ide.ns**: Your script file where you write your NeoScript code.
+* **ide.ns**: Your script file where you write your code.
 * **run.bat**: The quick-launch file for easy execution.
 * **Program.fs** (Optional): File containing the F# source code for those who want to build it themselves.
 
