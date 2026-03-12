@@ -1,6 +1,6 @@
 # 🌍 NeoScript F# Edition
 
-**NeoScript F# Edition** is a branch of [NeoScript Stable Release v1.0](https://github.com/Ken15-vn/NeoScript-Stable-Release-v1.0).
+**NeoScript F# Edition** is a branch of [NeoScript Stable Release v1.0](https://github.com/Ken15-vn/NeoScript-Stable-Release-v1.0) rewritten in F#.
 
 ---
 
