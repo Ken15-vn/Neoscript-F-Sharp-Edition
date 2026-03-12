@@ -35,7 +35,7 @@ For the best development experience, we recommend using the following tools:
 ## 🚀 How to Use (4 Steps):
 1. **Download**: Download the latest release package and extract it to your project folder.
 2. **Environment**: Ensure you have the .NET 10.0 Runtime installed (usually included with Visual Studio).
-3. **Code**: Open `ide.ns` with any text editor (like Notepad or VS Code) and write your NeoScript commands.
+3. **Code**: Open `ide.ns` with any text editor (like Notepad or VS Code) and write command you want to execute in it.
 4. **Run**: Double-click `run.bat` (which now calls the compiled F# executable) to see your code in action.
 
 ---
